@@ -59,8 +59,8 @@ function gettime(){
 <html>
      <head>
   <meta charset="UTF-8">
-  <title>HackerRahul | Get User Details!</title>
-  <meta name="description" content="HackerRahul Test Website">
+  <title>Aadil-Shaikh | Get User Details!</title>
+  <meta name="description" content="Aadil-Shaikh Test Website">
   <meta name="keywords" content="HTML,CSS,XML,JavaScript">
   <meta name="author" content="HackerRahul.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
